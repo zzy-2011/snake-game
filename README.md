@@ -21,7 +21,7 @@ python -m http.server 8000
 ```
 
 ## 在线试玩
-**https://zzy-2011.github.io/snake-game/**
+**https://zzy-2011.github.io/tanshe/**
 
 ## 文件结构
 ```
